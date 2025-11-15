@@ -1,14 +1,9 @@
-## Hi there 👋
-
-
-
-
 <!-- BANNER SUPERIOR PROFISSIONAL -->
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png" width="100%" alt="Banner Profissional">
 </p>
 
-<h1 align="center">Yordy Herrera</h1>
+<h1 align="center">Yordy Manuel Herrera Dugarte</h1>
 <h3 align="center">Senior Backend Engineer • PHP/Laravel • Distributed Systems • IoT/LoRa</h3>
 
 ---
