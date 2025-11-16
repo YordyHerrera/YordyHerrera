@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR PROFISSIONAL -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png" width="100%" alt="Banner Profissional">
+  <img src="https://github.com/YordyHerrera/YordyHerrera/raw/main/github-banner.png" width="100%" alt="Banner Profissional">
 </p>
 
 <h1 align="center">Yordy Manuel Herrera Dugarte</h1>
