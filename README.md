@@ -38,7 +38,7 @@ Tenho um foco especial em entregar **soluções completas**, unindo hardware + b
 ## 🛠️ Stack & Tecnologias que domino
 
 ### **Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
