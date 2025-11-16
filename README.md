@@ -7,13 +7,13 @@
 
 ## 🧭 Sobre mim
 
-Sou um **Engenheiro Backend Sênior** especializado em **arquitetura PHP/Laravel**, sistemas distribuídos, plataformas de alta disponibilidade e integrações avançadas.
+Sou um **Engenheiro Eletronico e de la Computacion** especializado em **arquitetura PHP**, sistemas distribuídos, plataformas de alta disponibilidade e integrações avançadas.
 
 Minha experiência combina **engenharia de software** e **sistemas físicos/IoT**, permitindo criar soluções completas, robustas e aplicadas ao mundo real.
 
 ---
 
-# 🛠️ Tech Stack (Ícones Modernos)
+# 🛠️ Tech Stack 
 
 ## 🔥 Backend
 
@@ -69,7 +69,6 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 ## ☁️ Cloud & Hosting
 
 <p align="left">
-<img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/amazonaws.svg" />
   <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
   <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
   <img height="32" src="https://skillicons.dev/icons?i=aws" />
@@ -93,7 +92,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 **Negócio Industrial — Plataforma B2B**
+### 🔹 **Sistema Industrial 
 - Multi-loja, múltiplos planos, assinatura recorrente  
 - Chat em tempo real  
 - MercadoPago + Arquitetura escalável  
@@ -102,9 +101,9 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ---
 
-### 🛰️ **Syscon LoRa — Boia Wireless**
-- ESP32 + LoRa E220  
-- Comunicação longa distância  
+### 🛰️ ** LoRa — Boia Wireless**
+- ESP32 + LoRa   
+- Comunicação longa distância 15km
 - Telemetria, bateria otimizada  
 - Relé remoto + OLED display  
 - Protocolo robusto testado em campo  
@@ -122,9 +121,9 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ## 📫 Contato
 
-📧 **email@exemplo.com**  
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_PROFILE  
-🌐 **Portfólio:** https://YOUR_WEBSITE.com  
+📧 **yordymanuelherreradugarte@gmail.com*  
+💼 **LinkedIn:** https://linkedin.com/in/yordy-herrera
+
 
 ---
 
