@@ -61,7 +61,6 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
   <img height="32" src="https://cdn.simpleicons.org/nginx/009639" />
-  <img height="32" src="https://cdn.simpleicons.org/apache/D22128" />
   <img height="32" src="https://cdn.simpleicons.org/github/ffffff" />
 </p>
 
