@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Yordy Manuel Herrera Dugarte</h1>
-<h3 align="center">Senior Backend Engineer • PHP/Laravel • Distributed Systems • IoT/LoRa</h3>
+<h3 align="center">Engineering & Technology • Fullstack Developer</h3>
 
 ---
 
@@ -12,147 +12,134 @@
 
 Sou um **Engenheiro Backend Sênior** especializado em **arquitetura PHP/Laravel**, sistemas distribuídos, plataformas de alta disponibilidade e integrações avançadas.
 
-Minha experiência se divide em **dois pilares complementares**:
-
-### 🔷 **1. Engenharia de Software**
-Projetos complexos e escaláveis usando:
-- Laravel 12.x (ecosystem completo)
-- Arquitetura limpa, Domain-Driven Design
-- Integrações (MercadoPago, Gateways, ERPs, APIs REST)
-- Redis, filas, caching inteligente
-- Segurança, proteção anti-fraude, hardening de API
-- Otimização de queries e performance em MySQL
-
-### 🔷 **2. Engenharia de IoT / Sistemas Físicos**
-Criação de produtos reais com:
-- ESP32 / ESP-WROOM-32
-- LoRa E220-900T22D e E22-900T30D
-- Telemetria, baixo consumo, baterias de longa duração
-- Dispositivos industriais (boias, sensores, atuadores)
-- Protocolos, RF tuning, alcance extremo e confiabilidade
-
-Tenho um foco especial em entregar **soluções completas**, unindo hardware + backend + interface + operação real no campo.
+Minha experiência combina **engenharia de software** e **sistemas físicos/IoT**, permitindo criar soluções completas, robustas e aplicadas ao mundo real.
 
 ---
 
-## 🛠️ Stack & Tecnologias que domino
+# 🛠️ Tech Stack (Ícones Modernos)
 
-### **Backend**
+## 🔥 Backend
 
 <p align="left">
-  <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
-  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
-</p>
-
   <img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
   <img height="32" src="https://cdn.simpleicons.org/laravel/E74430" />
   <img height="32" src="https://cdn.simpleicons.org/mysql/005C84" />
+  <img height="32" src="https://cdn.simpleicons.org/mariadb/003545" />
+  <img height="32" src="https://cdn.simpleicons.org/postgresql/336791" />
   <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
-
-### **Frontend (quando necessário)**
-  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
-![Inertia](https://img.shields.io/badge/Inertia.js-1a1a1a?style=for-the-badge)
-  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
-
-### **IoT / Hardware / Sistemas Físicos**
-  <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
-
-![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif)
-![LoRa](https://img.shields.io/badge/LoRa-E34F26?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-004880?style=for-the-badge&logo=cplusplus)
-
-### **DevOps / Infra**
-  <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+  <img height="32" src="https://cdn.simpleicons.org/apachekafka/231F20" />
+  <img height="32" src="https://cdn.simpleicons.org/graphql/E10098" />
+  <img height="32" src="https://cdn.simpleicons.org/rest/000000" />
+</p>
 
 ---
 
-## 🧩 Filosofia de Engenharia
+## 🎨 Frontend
+
+<p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/html5/E34F26" />
+  <img height="32" src="https://cdn.simpleicons.org/css3/1572B6" />
+  <img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img height="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
+  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
+  <img height="32" src="https://cdn.simpleicons.org/vue.js/4FC08D" />
+  <img height="32" src="https://cdn.simpleicons.org/inertia/8257E5" />
+</p>
+
+---
+
+## 🛰️ IoT / Hardware / Sistemas Físicos
+
+<p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
+  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
+  <img height="32" src="https://cdn.simpleicons.org/bluetooth/0082FC" />
+  <img height="32" src="https://cdn.simpleicons.org/zigbee/EB0443" />
+  <img height="32" src="https://cdn.simpleicons.org/c++/00599C" />
+  <img height="32" src="https://cdn.simpleicons.org/c/00599C" />
+  <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
+</p>
+
+---
+
+## ⚙️ DevOps / Infra
+
+<p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
+  <img height="32" src="https://cdn.simpleicons.org/nginx/009639" />
+  <img height="32" src="https://cdn.simpleicons.org/apache/D22128" />
+  <img height="32" src="https://cdn.simpleicons.org/git/F05032" />
+  <img height="32" src="https://cdn.simpleicons.org/github/ffffff" />
+  <img height="32" src="https://cdn.simpleicons.org/bitbucket/2684FF" />
+  <img height="32" src="https://cdn.simpleicons.org/jenkins/D24939" />
+  <img height="32" src="https://cdn.simpleicons.org/ansible/E00" />
+</p>
+
+---
+
+## ☁️ Cloud & Hosting
+
+<p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/aws/232F3E" />
+  <img height="32" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
+  <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
+  <img height="32" src="https://cdn.simpleicons.org/vercel/ffffff" />
+  <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
+</p>
+
+---
+
+# 🧩 Filosofia de Engenharia
 
 - **Código limpo, previsível e estável**
 - **Arquitetura antes de implementação**
 - **Processos e automações antes de escalar**
 - **Observabilidade, logs e rastreabilidade sem exceção**
-- **Design orientado a domínio**
 - **Boas práticas: SOLID, DDD, CQRS (quando faz sentido)**
 
-Minha regra é:  
-**se não aguenta tráfego real, não está pronto.**
+> **Minha regra:**  
+> **se não aguenta tráfego real, não está pronto.**
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 **Negócio Industrial — Plataforma B2B de alto desempenho**
-Marketplace completo para o setor industrial:
-- Multi-loja, múltiplos planos, assinatura recorrente
-- Chat em tempo real
-- Painel administrativo avançado
-- Gateways de pagamento (MercadoPago)
-- Arquitetura escalável com filas e cache
-- Design profissional e responsivo
-
-> *Backend 100% Laravel com arquitetura limpa.*
+### 🔹 **Negócio Industrial — Plataforma B2B**
+- Multi-loja, múltiplos planos, assinatura recorrente  
+- Chat em tempo real  
+- MercadoPago + Arquitetura escalável  
+- Redis, filas, caching inteligente  
+- Design profissional e responsivo  
 
 ---
 
-### 🛰️ **Syscon LoRa — Boia Wireless com ESP32 + E220**
-Sistema industrial com comunicação LoRa de longo alcance:
-- Monitoramento em tempo real
-- Bateria de longa duração
-- Atuadores remotos com SSR
-- Receptor com OLED e interface intuitiva
-- Protocolo de transmissão robusto
-- Testado em campo
-
-> *Produto físico + firmware + backend.*
+### 🛰️ **Syscon LoRa — Boia Wireless**
+- ESP32 + LoRa E220  
+- Comunicação longa distância  
+- Telemetria, bateria otimizada  
+- Relé remoto + OLED display  
+- Protocolo robusto testado em campo  
 
 ---
 
 ## 📊 Métricas do Perfil
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=highcontrast&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YordyHerrera&show_icons=true&theme=highcontrast&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordyHerrera&layout=compact&theme=highcontrast"/>
 </p>
 
 ---
 
 ## 📫 Contato
+
 📧 **email@exemplo.com**  
 💼 **LinkedIn:** https://linkedin.com/in/YOUR_PROFILE  
-🌐 **Portfólio:** https://YOUR_WEBSITE.com
+🌐 **Portfólio:** https://YOUR_WEBSITE.com  
 
 ---
 
 <p align="center"><sub>
 Criado para ser objetivo, direto e profissional — como um engenheiro sênior deve ser.
 </sub></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**YordyHerrera/YordyHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
