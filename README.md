@@ -72,6 +72,8 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/amazonaws.svg" />
   <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
   <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
+  <img height="32" src="https://skillicons.dev/icons?i=aws" />
+
 </p>
 
 ---
