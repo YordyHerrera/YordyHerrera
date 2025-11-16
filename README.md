@@ -121,12 +121,10 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ## 📫 Contato
 
-📧 **yordymanuelherreradugarte@gmail.com*  
+📧 **Email:** yordymanuelherreradugarte@gmail.com
 💼 **LinkedIn:** https://linkedin.com/in/yordy-herrera
 
 
 ---
 
-<p align="center"><sub>
-Criado para ser objetivo, direto e profissional — como um engenheiro sênior deve ser.
-</sub></p>
+
