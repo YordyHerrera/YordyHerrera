@@ -1,15 +1,15 @@
-<!-- BANNER SUPERIOR PROFISSIONAL -->
+<!-- PROFESSIONAL TOP BANNER -->
 <p align="center">
-  <img src="https://github.com/YordyHerrera/YordyHerrera/raw/main/github-banner.png" width="100%" alt="Banner Profissional">
+  <img src="https://github.com/YordyHerrera/YordyHerrera/raw/main/github-banner.png" width="100%" alt="Professional Banner">
 </p>
 
 ---
 
-## 🧭 Sobre mim
+## 🧭 About Me
 
-Sou um **Engenheiro Eletronico e de la Computacion** especializado em **arquitetura PHP**, sistemas distribuídos, plataformas de alta disponibilidade e integrações avançadas.
+I am an **Electronic and Computer Engineer** specialized in **PHP architecture**, distributed systems, high-availability platforms, and advanced integrations.
 
-Minha experiência combina **engenharia de software** e **sistemas físicos/IoT**, permitindo criar soluções completas, robustas e aplicadas ao mundo real.
+My experience combines **software engineering** and **physical/IoT systems**, enabling me to build complete, robust, and real-world solutions.
 
 ---
 
@@ -24,7 +24,6 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
   <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
   <img height="32" src="https://cdn.simpleicons.org/python/3776AB" />
-
 </p>
 
 ---
@@ -42,7 +41,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ---
 
-## 🛰️ IoT / Hardware / Sistemas Físicos
+## 🛰️ IoT / Hardware / Physical Systems
 
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
@@ -51,12 +50,11 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/c++/00599C" />
   <img height="32" src="https://cdn.simpleicons.org/csharp/239120" />
   <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
-  
 </p>
 
 ---
 
-## ⚙️ DevOps / Infra
+## ⚙️ DevOps / Infrastructure
 
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
@@ -72,45 +70,44 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
   <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
   <img height="32" src="https://skillicons.dev/icons?i=aws" />
-
 </p>
 
 ---
 
-# 🧩 Filosofia de Engenharia
+# 🧩 Engineering Philosophy
 
-- **Código limpo, previsível e estável**
-- **Arquitetura antes de implementação**
-- **Processos e automações antes de escalar**
-- **Observabilidade, logs e rastreabilidade sem exceção**
-- **Boas práticas: SOLID, DDD, CQRS (quando faz sentido)**
+- **Clean, predictable, and stable code**
+- **Architecture first, implementation second**
+- **Processes and automation before scaling**
+- **Observability, logging, and traceability — always**
+- **Best practices: SOLID, DDD, CQRS (when applicable)**
 
-> **Minha regra:**  
-> **se não aguenta tráfego real, não está pronto.**
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔹 **Sistema Industrial 
-- Multi-loja, múltiplos planos, assinatura recorrente  
-- Chat em tempo real  
-- MercadoPago + Arquitetura escalável  
-- Redis, filas, caching inteligente  
-- Design profissional e responsivo  
+> **My rule:**  
+> **If it doesn’t handle real-world traffic, it’s not ready.**
 
 ---
 
-### 🛰️ ** LoRa — Boia Wireless**
-- ESP32 + LoRa   
-- Comunicação longa distância 15km
-- Telemetria, bateria otimizada  
-- Relé remoto + OLED display  
-- Protocolo robusto testado em campo  
+## 🚀 Featured Projects
+
+### 🔹 **Industrial System**
+- Multi-store ecosystem, multiple plans, recurring subscriptions  
+- Real-time chat  
+- MercadoPago + scalable architecture  
+- Redis, queues, intelligent caching  
+- Professional and responsive design  
 
 ---
 
-## 📊 Métricas do Perfil
+### 🛰️ **LoRa — Wireless Buoy System**
+- ESP32 + LoRa  
+- Long-distance communication (up to 15 km)  
+- Telemetry + optimized battery consumption  
+- Remote relay + OLED display  
+- Robust protocol tested in the field  
+
+---
+
+## 📊 Profile Metrics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YordyHerrera&show_icons=true&theme=highcontrast&count_private=true&rank_icon=github"/>
@@ -119,12 +116,9 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-📧 **Email:** yordymanuelherreradugarte@gmail.com
-💼 **LinkedIn:** https://linkedin.com/in/yordy-herrera
-
+📧 **Email:** yordymanuelherreradugarte@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/yordy-herrera  
 
 ---
-
-
