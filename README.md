@@ -69,7 +69,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 ## ☁️ Cloud & Hosting
 
 <p align="left">
-<img height="32" src="https://cdn.simpleicons.org/awsamplify/FF9900" />
+<img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/amazonaws.svg" />
   <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
   <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
 </p>
