@@ -21,6 +21,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
   <img height="32" src="https://cdn.simpleicons.org/laravel/E74430" />
   <img height="32" src="https://cdn.simpleicons.org/mysql/005C84" />
+  <img height="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
   <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
   <img height="32" src="https://cdn.simpleicons.org/python/3776AB" />
 
@@ -32,12 +33,10 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/html5/E34F26" />
-  <img height="32" src="https://cdn.simpleicons.org/css3/1572B6" />
   <img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
   <img height="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
   <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
   <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
-  <img height="32" src="https://cdn.simpleicons.org/vue.js/4FC08D" />
   <img height="32" src="https://cdn.simpleicons.org/inertia/8257E5" />
 </p>
 
@@ -47,12 +46,12 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
-  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
   <img height="32" src="https://cdn.simpleicons.org/bluetooth/0082FC" />
   <img height="32" src="https://cdn.simpleicons.org/zigbee/EB0443" />
   <img height="32" src="https://cdn.simpleicons.org/c++/00599C" />
-  <img height="32" src="https://cdn.simpleicons.org/c/00599C" />
+  <img height="32" src="https://cdn.simpleicons.org/csharp/239120" />
   <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
+  
 </p>
 
 ---
@@ -63,11 +62,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
   <img height="32" src="https://cdn.simpleicons.org/nginx/009639" />
   <img height="32" src="https://cdn.simpleicons.org/apache/D22128" />
-  <img height="32" src="https://cdn.simpleicons.org/git/F05032" />
   <img height="32" src="https://cdn.simpleicons.org/github/ffffff" />
-  <img height="32" src="https://cdn.simpleicons.org/bitbucket/2684FF" />
-  <img height="32" src="https://cdn.simpleicons.org/jenkins/D24939" />
-  <img height="32" src="https://cdn.simpleicons.org/ansible/E00" />
 </p>
 
 ---
@@ -76,9 +71,7 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
 
 <p align="left">
   <img height="32" src="https://cdn.simpleicons.org/aws/232F3E" />
-  <img height="32" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
   <img height="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
-  <img height="32" src="https://cdn.simpleicons.org/vercel/ffffff" />
   <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
 </p>
 
