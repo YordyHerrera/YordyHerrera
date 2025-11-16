@@ -40,35 +40,29 @@ Tenho um foco especial em entregar **soluções completas**, unindo hardware + b
 ### **Backend**
 
 <p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
+  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
+</p>
+
   <img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
   <img height="32" src="https://cdn.simpleicons.org/laravel/E74430" />
   <img height="32" src="https://cdn.simpleicons.org/mysql/005C84" />
   <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
-  <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
-  <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
-  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
-  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
-  <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
-  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
-</p>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Frontend (quando necessário)**
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react)
+  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
 ![Inertia](https://img.shields.io/badge/Inertia.js-1a1a1a?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1a1a1a?style=for-the-badge&logo=tailwind-css)
+  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
 
 ### **IoT / Hardware / Sistemas Físicos**
+  <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
+
 ![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif)
 ![LoRa](https://img.shields.io/badge/LoRa-E34F26?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-004880?style=for-the-badge&logo=cplusplus)
 
 ### **DevOps / Infra**
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+  <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
