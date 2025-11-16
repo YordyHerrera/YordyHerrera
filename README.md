@@ -38,7 +38,19 @@ Tenho um foco especial em entregar **soluções completas**, unindo hardware + b
 ## 🛠️ Stack & Tecnologias que domino
 
 ### **Backend**
-<img height="32" src="[https://cdn.simpleicons.org/php/777BB4](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png)" />
+
+<p align="left">
+  <img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
+  <img height="32" src="https://cdn.simpleicons.org/laravel/E74430" />
+  <img height="32" src="https://cdn.simpleicons.org/mysql/005C84" />
+  <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
+  <img height="32" src="https://cdn.simpleicons.org/docker/2496ED" />
+  <img height="32" src="https://cdn.simpleicons.org/linux/FCC624" />
+  <img height="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
+  <img height="32" src="https://cdn.simpleicons.org/arduino/00979D" />
+  <img height="32" src="https://cdn.simpleicons.org/espressif/E7352C" />
+</p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
