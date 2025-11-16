@@ -3,9 +3,6 @@
   <img src="https://github.com/YordyHerrera/YordyHerrera/raw/main/github-banner.png" width="100%" alt="Banner Profissional">
 </p>
 
-<h1 align="center">Yordy Manuel Herrera Dugarte</h1>
-<h3 align="center">Engineering & Technology • Fullstack Developer</h3>
-
 ---
 
 ## 🧭 Sobre mim
@@ -24,12 +21,9 @@ Minha experiência combina **engenharia de software** e **sistemas físicos/IoT*
   <img height="32" src="https://cdn.simpleicons.org/php/777BB4" />
   <img height="32" src="https://cdn.simpleicons.org/laravel/E74430" />
   <img height="32" src="https://cdn.simpleicons.org/mysql/005C84" />
-  <img height="32" src="https://cdn.simpleicons.org/mariadb/003545" />
-  <img height="32" src="https://cdn.simpleicons.org/postgresql/336791" />
   <img height="32" src="https://cdn.simpleicons.org/redis/DC382D" />
-  <img height="32" src="https://cdn.simpleicons.org/apachekafka/231F20" />
-  <img height="32" src="https://cdn.simpleicons.org/graphql/E10098" />
-  <img height="32" src="https://cdn.simpleicons.org/rest/000000" />
+  <img height="32" src="https://cdn.simpleicons.org/python/3776AB" />
+
 </p>
 
 ---
